@@ -1,0 +1,11 @@
+name: "Test class website"
+output_dir: "."
+navbar:
+  title: "Test class website"
+  left:
+    - text: "Overview"
+      href: index.html
+    - text: "Weekly schedule"
+      href: index.html
+    - text: "Assignments"
+      href: index.html
